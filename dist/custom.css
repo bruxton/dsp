@@ -399,7 +399,7 @@
  * Slide Animation (Used in slide and push mode)
  */
 .uk-offcanvas-bar-animation {
-  transition: left 0.3s ease-out;
+  transition: left 1.3s ease-out;
 }
 /* Overlay
  ========================================================================== */
